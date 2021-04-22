@@ -1,0 +1,12 @@
+com\cs\csApp\pages\AccountDetailsPage.class
+com\cs\support\MobileProperties.class
+com\cs\csApp\steps\AccountDetailsSteps.class
+com\cs\csApp\steps\AccountSteps.class
+com\cs\csApp\steps\AuthorizationSteps.class
+com\cs\csApp\pages\AccountPage.class
+com\cs\csApp\pages\AuthorizationPage.class
+com\cs\support\Arguments.class
+com\cs\utils\ConfigProp.class
+com\cs\utils\MobilePageObject.class
+com\cs\controller\AndroidEmulatorController.class
+com\cs\controller\AppiumServerController.class
